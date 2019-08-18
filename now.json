@@ -1,0 +1,8 @@
+
+{
+    "version": 2,
+    "name": "gundb",
+    "builds": [
+        { "src": "*.js", "use": "@now/node" }
+    ]
+}
